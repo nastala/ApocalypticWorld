@@ -1,0 +1,6 @@
+C:\Users\sezgi\source\repos\ApocalypticWorld\ApocalypticWorld\obj\Debug\ApocalypticWorld.csprojAssemblyReference.cache
+C:\Users\sezgi\source\repos\ApocalypticWorld\ApocalypticWorld\bin\Debug\ApocalypticWorld.exe.config
+C:\Users\sezgi\source\repos\ApocalypticWorld\ApocalypticWorld\bin\Debug\ApocalypticWorld.exe
+C:\Users\sezgi\source\repos\ApocalypticWorld\ApocalypticWorld\bin\Debug\ApocalypticWorld.pdb
+C:\Users\sezgi\source\repos\ApocalypticWorld\ApocalypticWorld\obj\Debug\ApocalypticWorld.exe
+C:\Users\sezgi\source\repos\ApocalypticWorld\ApocalypticWorld\obj\Debug\ApocalypticWorld.pdb
